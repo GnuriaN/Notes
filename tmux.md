@@ -39,3 +39,50 @@ tmux attach || tmux new
 - `PgUp, PgDown` — скроллинг;
 - `q` — выход из «режима копирования».
 
+### Пример файла конфигурации
+```conf
+# Поместите файл в домашнюю директорию, или его содержимое в файл ~/.tmux.conf
+
+# Основные настройки  --------------------------------------------------------------
+
+set -g set-titles on                                    # Разрешить смену заголовков в оконном менеджере
+set -g set-titles-string "tmux.#I.#W"                   # Формат строки заголовка
+
+set -g base-index 1                                     # Начинать отсчёт окон с первого
+
+set -g history-limit 5000                               # Размер буфера в линиях
+
+set -g bell-action any                                  # Следить за активностью на всех окнах
+
+setw -g monitor-activity on                             # Информировать когда есть активность в окнах
+set -g visual-activity on                               # Показывать статусное сообщение при активности в каком либо окне
+
+bind-key k confirm kill-window                          # Подтверждать уничтожение окна
+bind-key K confirm kill-server                          # Подтверждать уничтожение сервера
+
+# Статусбар -------------------------------------------------------------------
+
+set -g display-time 2000                                # Время в миллисекундах, сколько будут отображаться сообщения (в статусбаре к примеру)
+
+# Цвета  ---------------------------------------------------------------------
+
+# Цвета статусбара
+set -g status-fg white
+set -g status-bg default
+set -g status-attr default
+
+# Цвета заголовков окон
+set-window-option -g window-status-fg cyan
+set-window-option -g window-status-bg default
+set-window-option -g window-status-attr dim
+
+# Цвета активных окон
+set-window-option -g window-status-current-fg white
+set-window-option -g window-status-current-bg default   # Выделение активного окна белым цветом
+set-window-option -g window-status-current-attr bright
+
+# Цвета командной строки
+set -g message-fg white
+set -g message-bg black
+set -g message-attr bright
+```
