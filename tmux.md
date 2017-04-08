@@ -45,24 +45,24 @@ tmux attach || tmux new
 
 # Основные настройки  --------------------------------------------------------------
 
-set -g set-titles on                                    # Разрешить смену заголовков в оконном менеджере
-set -g set-titles-string "tmux.#I.#W"                   # Формат строки заголовка
+set -g set-titles on                      # Разрешить смену заголовков в оконном менеджере
+set -g set-titles-string "tmux.#I.#W"     # Формат строки заголовка
 
-set -g base-index 1                                     # Начинать отсчёт окон с первого
+set -g base-index 1                       # Начинать отсчёт окон с первого
 
-set -g history-limit 5000                               # Размер буфера в линиях
+set -g history-limit 5000                 # Размер буфера в линиях
 
-set -g bell-action any                                  # Следить за активностью на всех окнах
+set -g bell-action any                    # Следить за активностью на всех окнах
 
-setw -g monitor-activity on                             # Информировать когда есть активность в окнах
-set -g visual-activity on                               # Показывать статусное сообщение при активности в каком либо окне
+setw -g monitor-activity on               # Информировать когда есть активность в окнах
+set -g visual-activity on                 # Показывать статусное сообщение при активности в каком либо окне
 
-bind-key k confirm kill-window                          # Подтверждать уничтожение окна
-bind-key K confirm kill-server                          # Подтверждать уничтожение сервера
+bind-key k confirm kill-window            # Подтверждать уничтожение окна
+bind-key K confirm kill-server            # Подтверждать уничтожение сервера
 
 # Статусбар -------------------------------------------------------------------
 
-set -g display-time 2000                                # Время в миллисекундах, сколько будут отображаться сообщения (в статусбаре к примеру)
+set -g display-time 2000                 # Время в миллисекундах, сколько будут отображаться сообщения (в статусбаре к примеру)
 
 # Цвета  ---------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ set-window-option -g window-status-attr dim
 
 # Цвета активных окон
 set-window-option -g window-status-current-fg white
-set-window-option -g window-status-current-bg default   # Выделение активного окна белым цветом
+set-window-option -g window-status-current-bg default         # Выделение активного окна белым цветом
 set-window-option -g window-status-current-attr bright
 
 # Цвета командной строки
