@@ -6,6 +6,8 @@ _`tmux` — свободная консольная утилита-мульти�
 
 Github:[tmux](https://github.com/tmux) Web:[tmux.github.io](https://tmux.github.io)
 
+Очень хорошая книга по `tmux`, но она на английском языке: [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
+
 ### Запуск `tmux`
 Посмотреть список сессий:
 ```Bash
