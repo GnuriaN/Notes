@@ -112,573 +112,207 @@
 |	:turtle:    `:turtle:`	|	:hibiscus:    `:hibiscus:`	|		|
 
 ## Objects
-:bamboo:    `:bamboo:`
-:gift_heart:    `:gift_heart:`
-:dolls:    `:dolls:`
-:school_satchel:    `:school_satchel:`
-:mortar_board:    `:mortar_board:`
-:flags:    `:flags:`
-:fireworks:    `:fireworks:`
-:sparkler:    `:sparkler:`
-:wind_chime:    `:wind_chime:`
-:rice_scene:    `:rice_scene:`
-:jack_o_lantern:    `:jack_o_lantern:`
-:ghost:    `:ghost:`
-:santa:    `:santa:`
-:christmas_tree:    `:christmas_tree:`
-:gift:    `:gift:`
-:bell:    `:bell:`
-:no_bell:    `:no_bell:`
-:tanabata_tree:    `:tanabata_tree:`
-:tada:    `:tada:`
-:confetti_ball:    `:confetti_ball:`
-:balloon:    `:balloon:`
-:crystal_ball:    `:crystal_ball:`
-:cd:    `:cd:`
-:dvd:    `:dvd:`
-:floppy_disk:    `:floppy_disk:`
-:camera:    `:camera:`
-:video_camera:    `:video_camera:`
-:movie_camera:    `:movie_camera:`
-:computer:    `:computer:`
-:tv:    `:tv:`
-:iphone:    `:iphone:`
-:phone:    `:phone:`
-:telephone:    `:telephone:`
-:telephone_receiver:    `:telephone_receiver:`
-:pager:    `:pager:`
-:fax:    `:fax:`
-:minidisc:    `:minidisc:`
-:vhs:    `:vhs:`
-:sound:    `:sound:`
-:speaker:    `:speaker:`
-:mute:    `:mute:`
-:loudspeaker:    `:loudspeaker:`
-:mega:    `:mega:`
-:hourglass:    `:hourglass:`
-:hourglass_flowing_sand:    `:hourglass_flowing_sand:`
-:alarm_clock:    `:alarm_clock:`
-:watch:    `:watch:`
-:radio:    `:radio:`
-:satellite:    `:satellite:`
-:loop:    `:loop:`
-:mag:    `:mag:`
-:mag_right:    `:mag_right:`
-:unlock:    `:unlock:`
-:lock:    `:lock:`
-:lock_with_ink_pen:    `:lock_with_ink_pen:`
-:closed_lock_with_key:    `:closed_lock_with_key:`
-:key:    `:key:`
-:bulb:    `:bulb:`
-:flashlight:    `:flashlight:`
-:high_brightness:    `:high_brightness:`
-:low_brightness:    `:low_brightness:`
-:electric_plug:    `:electric_plug:`
-:battery:    `:battery:`
-:calling:    `:calling:`
-:email:    `:email:`
-:mailbox:    `:mailbox:`
-:postbox:    `:postbox:`
-:bath:    `:bath:`
-:bathtub:    `:bathtub:`
-:shower:    `:shower:`
-:toilet:    `:toilet:`
-:wrench:    `:wrench:`
-:nut_and_bolt:    `:nut_and_bolt:`
-:hammer:    `:hammer:`
-:seat:    `:seat:`
-:moneybag:    `:moneybag:`
-:yen:    `:yen:`
-:dollar:    `:dollar:`
-:pound:    `:pound:`
-:euro:    `:euro:`
-:credit_card:    `:credit_card:`
-:money_with_wings:    `:money_with_wings:`
-:e-mail:    `:e-mail:`
-:inbox_tray:    `:inbox_tray:`
-:outbox_tray:    `:outbox_tray:`
-:envelope:    `:envelope:`
-:incoming_envelope:    `:incoming_envelope:`
-:postal_horn:    `:postal_horn:`
-:mailbox_closed:    `:mailbox_closed:`
-:mailbox_with_mail:    `:mailbox_with_mail:`
-:mailbox_with_no_mail:    `:mailbox_with_no_mail:`
-:package:    `:package:`
-:door:    `:door:`
-:smoking:    `:smoking:`
-:bomb:    `:bomb:`
-:gun:    `:gun:`
-:hocho:    `:hocho:`
-:pill:    `:pill:`
-:syringe:    `:syringe:`
-:page_facing_up:    `:page_facing_up:`
-:page_with_curl:    `:page_with_curl:`
-:bookmark_tabs:    `:bookmark_tabs:`
-:bar_chart:    `:bar_chart:`
-:chart_with_upwards_trend:    `:chart_with_upwards_trend:`
-:chart_with_downwards_trend:    `:chart_with_downwards_trend:`
-:scroll:    `:scroll:`
-:clipboard:    `:clipboard:`
-:calendar:    `:calendar:`
-:date:    `:date:`
-:card_index:    `:card_index:`
-:file_folder:    `:file_folder:`
-:open_file_folder:    `:open_file_folder:`
-:scissors:    `:scissors:`
-:pushpin:    `:pushpin:`
-:paperclip:    `:paperclip:`
-:black_nib:    `:black_nib:`
-:pencil2:    `:pencil2:`
-:straight_ruler:    `:straight_ruler:`
-:triangular_ruler:    `:triangular_ruler:`
-:closed_book:    `:closed_book:`
-:green_book:    `:green_book:`
-:blue_book:    `:blue_book:`
-:orange_book:    `:orange_book:`
-:notebook:    `:notebook:`
-:notebook_with_decorative_cover:    `:notebook_with_decorative_cover:`
-:ledger:    `:ledger:`
-:books:    `:books:`
-:bookmark:    `:bookmark:`
-:name_badge:    `:name_badge:`
-:microscope:    `:microscope:`
-:telescope:    `:telescope:`
-:newspaper:    `:newspaper:`
-:football:    `:football:`
-:basketball:    `:basketball:`
-:soccer:    `:soccer:`
-:baseball:    `:baseball:`
-:tennis:    `:tennis:`
-:8ball:    `:8ball:`
-:rugby_football:    `:rugby_football:`
-:bowling:    `:bowling:`
-:golf:    `:golf:`
-:mountain_bicyclist:    `:mountain_bicyclist:`
-:bicyclist:    `:bicyclist:`
-:horse_racing:    `:horse_racing:`
-:snowboarder:    `:snowboarder:`
-:swimmer:    `:swimmer:`
-:surfer:    `:surfer:`
-:ski:    `:ski:`
-:spades:    `:spades:`
-:hearts:    `:hearts:`
-:clubs:    `:clubs:`
-:diamonds:    `:diamonds:`
-:gem:    `:gem:`
-:ring:    `:ring:`
-:trophy:    `:trophy:`
-:musical_score:    `:musical_score:`
-:musical_keyboard:    `:musical_keyboard:`
-:violin:    `:violin:`
-:space_invader:    `:space_invader:`
-:video_game:    `:video_game:`
-:black_joker:    `:black_joker:`
-:flower_playing_cards:    `:flower_playing_cards:`
-:game_die:    `:game_die:`
-:dart:    `:dart:`
-:mahjong:    `:mahjong:`
-:clapper:    `:clapper:`
-:memo:    `:memo:`
-:pencil:    `:pencil:`
-:book:    `:book:`
-:art:    `:art:`
-:microphone:    `:microphone:`
-:headphones:    `:headphones:`
-:trumpet:    `:trumpet:`
-:saxophone:    `:saxophone:`
-:guitar:    `:guitar:`
-:shoe:    `:shoe:`
-:sandal:    `:sandal:`
-:high_heel:    `:high_heel:`
-:lipstick:    `:lipstick:`
-:boot:    `:boot:`
-:shirt:    `:shirt:`
-:tshirt:    `:tshirt:`
-:necktie:    `:necktie:`
-:womans_clothes:    `:womans_clothes:`
-:dress:    `:dress:`
-:running_shirt_with_sash:    `:running_shirt_with_sash:`
-:jeans:    `:jeans:`
-:kimono:    `:kimono:`
-:bikini:    `:bikini:`
-:ribbon:    `:ribbon:`
-:tophat:    `:tophat:`
-:crown:    `:crown:`
-:womans_hat:    `:womans_hat:`
-:mans_shoe:    `:mans_shoe:`
-:closed_umbrella:    `:closed_umbrella:`
-:briefcase:    `:briefcase:`
-:handbag:    `:handbag:`
-:pouch:    `:pouch:`
-:purse:    `:purse:`
-:eyeglasses:    `:eyeglasses:`
-:fishing_pole_and_fish:    `:fishing_pole_and_fish:`
-:coffee:    `:coffee:`
-:tea:    `:tea:`
-:sake:    `:sake:`
-:baby_bottle:    `:baby_bottle:`
-:beer:    `:beer:`
-:beers:    `:beers:`
-:cocktail:    `:cocktail:`
-:tropical_drink:    `:tropical_drink:`
-:wine_glass:    `:wine_glass:`
-:fork_and_knife:    `:fork_and_knife:`
-:pizza:    `:pizza:`
-:hamburger:    `:hamburger:`
-:fries:    `:fries:`
-:poultry_leg:    `:poultry_leg:`
-:meat_on_bone:    `:meat_on_bone:`
-:spaghetti:    `:spaghetti:`
-:curry:    `:curry:`
-:fried_shrimp:    `:fried_shrimp:`
-:bento:    `:bento:`
-:sushi:    `:sushi:`
-:fish_cake:    `:fish_cake:`
-:rice_ball:    `:rice_ball:`
-:rice_cracker:    `:rice_cracker:`
-:rice:    `:rice:`
-:ramen:    `:ramen:`
-:stew:    `:stew:`
-:oden:    `:oden:`
-:dango:    `:dango:`
-:egg:    `:egg:`
-:bread:    `:bread:`
-:doughnut:    `:doughnut:`
-:custard:    `:custard:`
-:icecream:    `:icecream:`
-:ice_cream:    `:ice_cream:`
-:shaved_ice:    `:shaved_ice:`
-:birthday:    `:birthday:`
-:cake:    `:cake:`
-:cookie:    `:cookie:`
-:chocolate_bar:    `:chocolate_bar:`
-:candy:    `:candy:`
-:lollipop:    `:lollipop:`
-:honey_pot:    `:honey_pot:`
-:apple:    `:apple:`
-:green_apple:    `:green_apple:`
-:tangerine:    `:tangerine:`
-:lemon:    `:lemon:`
-:cherries:    `:cherries:`
-:grapes:    `:grapes:`
-:watermelon:    `:watermelon:`
-:strawberry:    `:strawberry:`
-:peach:    `:peach:`
-:melon:    `:melon:`
-:banana:    `:banana:`
-:pear:    `:pear:`
-:pineapple:    `:pineapple:`
-:sweet_potato:    `:sweet_potato:`
-:eggplant:    `:eggplant:`
-:tomato:    `:tomato:`
-:corn:    `:corn:`
+|		|		|		|
+|	-	|	-	|	-	|
+|	:bamboo:    `:bamboo:`	|	:postal_horn:    `:postal_horn:`	|	:guitar:    `:guitar:`	|
+|	:gift_heart:    `:gift_heart:`	|	:mailbox_closed:    `:mailbox_closed:`	|	:shoe:    `:shoe:`	|
+|	:dolls:    `:dolls:`	|	:mailbox_with_mail:    `:mailbox_with_mail:`	|	:sandal:    `:sandal:`	|
+|	:school_satchel:    `:school_satchel:`	|	:mailbox_with_no_mail:    `:mailbox_with_no_mail:`	|	:high_heel:    `:high_heel:`	|
+|	:mortar_board:    `:mortar_board:`	|	:package:    `:package:`	|	:lipstick:    `:lipstick:`	|
+|	:flags:    `:flags:`	|	:door:    `:door:`	|	:boot:    `:boot:`	|
+|	:fireworks:    `:fireworks:`	|	:smoking:    `:smoking:`	|	:shirt:    `:shirt:`	|
+|	:sparkler:    `:sparkler:`	|	:bomb:    `:bomb:`	|	:tshirt:    `:tshirt:`	|
+|	:wind_chime:    `:wind_chime:`	|	:gun:    `:gun:`	|	:necktie:    `:necktie:`	|
+|	:rice_scene:    `:rice_scene:`	|	:hocho:    `:hocho:`	|	:womans_clothes:    `:womans_clothes:`	|
+|	:jack_o_lantern:    `:jack_o_lantern:`	|	:pill:    `:pill:`	|	:dress:    `:dress:`	|
+|	:ghost:    `:ghost:`	|	:syringe:    `:syringe:`	|	:running_shirt_with_sash:    `:running_shirt_with_sash:`	|
+|	:santa:    `:santa:`	|	:page_facing_up:    `:page_facing_up:`	|	:jeans:    `:jeans:`	|
+|	:christmas_tree:    `:christmas_tree:`	|	:page_with_curl:    `:page_with_curl:`	|	:kimono:    `:kimono:`	|
+|	:gift:    `:gift:`	|	:bookmark_tabs:    `:bookmark_tabs:`	|	:bikini:    `:bikini:`	|
+|	:bell:    `:bell:`	|	:bar_chart:    `:bar_chart:`	|	:ribbon:    `:ribbon:`	|
+|	:no_bell:    `:no_bell:`	|	:chart_with_upwards_trend:    `:chart_with_upwards_trend:`	|	:tophat:    `:tophat:`	|
+|	:tanabata_tree:    `:tanabata_tree:`	|	:chart_with_downwards_trend:    `:chart_with_downwards_trend:`	|	:crown:    `:crown:`	|
+|	:tada:    `:tada:`	|	:scroll:    `:scroll:`	|	:womans_hat:    `:womans_hat:`	|
+|	:confetti_ball:    `:confetti_ball:`	|	:clipboard:    `:clipboard:`	|	:mans_shoe:    `:mans_shoe:`	|
+|	:balloon:    `:balloon:`	|	:calendar:    `:calendar:`	|	:closed_umbrella:    `:closed_umbrella:`	|
+|	:crystal_ball:    `:crystal_ball:`	|	:date:    `:date:`	|	:briefcase:    `:briefcase:`	|
+|	:cd:    `:cd:`	|	:card_index:    `:card_index:`	|	:handbag:    `:handbag:`	|
+|	:dvd:    `:dvd:`	|	:file_folder:    `:file_folder:`	|	:pouch:    `:pouch:`	|
+|	:floppy_disk:    `:floppy_disk:`	|	:open_file_folder:    `:open_file_folder:`	|	:purse:    `:purse:`	|
+|	:camera:    `:camera:`	|	:scissors:    `:scissors:`	|	:eyeglasses:    `:eyeglasses:`	|
+|	:video_camera:    `:video_camera:`	|	:pushpin:    `:pushpin:`	|	:fishing_pole_and_fish:    `:fishing_pole_and_fish:`	|
+|	:movie_camera:    `:movie_camera:`	|	:paperclip:    `:paperclip:`	|	:coffee:    `:coffee:`	|
+|	:computer:    `:computer:`	|	:black_nib:    `:black_nib:`	|	:tea:    `:tea:`	|
+|	:tv:    `:tv:`	|	:pencil2:    `:pencil2:`	|	:sake:    `:sake:`	|
+|	:iphone:    `:iphone:`	|	:straight_ruler:    `:straight_ruler:`	|	:baby_bottle:    `:baby_bottle:`	|
+|	:phone:    `:phone:`	|	:triangular_ruler:    `:triangular_ruler:`	|	:beer:    `:beer:`	|
+|	:telephone:    `:telephone:`	|	:closed_book:    `:closed_book:`	|	:beers:    `:beers:`	|
+|	:telephone_receiver:    `:telephone_receiver:`	|	:green_book:    `:green_book:`	|	:cocktail:    `:cocktail:`	|
+|	:pager:    `:pager:`	|	:blue_book:    `:blue_book:`	|	:tropical_drink:    `:tropical_drink:`	|
+|	:fax:    `:fax:`	|	:orange_book:    `:orange_book:`	|	:wine_glass:    `:wine_glass:`	|
+|	:minidisc:    `:minidisc:`	|	:notebook:    `:notebook:`	|	:fork_and_knife:    `:fork_and_knife:`	|
+|	:vhs:    `:vhs:`	|	:notebook_with_decorative_cover:    `:notebook_with_decorative_cover:`	|	:pizza:    `:pizza:`	|
+|	:sound:    `:sound:`	|	:ledger:    `:ledger:`	|	:hamburger:    `:hamburger:`	|
+|	:speaker:    `:speaker:`	|	:books:    `:books:`	|	:fries:    `:fries:`	|
+|	:mute:    `:mute:`	|	:bookmark:    `:bookmark:`	|	:poultry_leg:    `:poultry_leg:`	|
+|	:loudspeaker:    `:loudspeaker:`	|	:name_badge:    `:name_badge:`	|	:meat_on_bone:    `:meat_on_bone:`	|
+|	:mega:    `:mega:`	|	:microscope:    `:microscope:`	|	:spaghetti:    `:spaghetti:`	|
+|	:hourglass:    `:hourglass:`	|	:telescope:    `:telescope:`	|	:curry:    `:curry:`	|
+|	:hourglass_flowing_sand:    `:hourglass_flowing_sand:`	|	:newspaper:    `:newspaper:`	|	:fried_shrimp:    `:fried_shrimp:`	|
+|	:alarm_clock:    `:alarm_clock:`	|	:football:    `:football:`	|	:bento:    `:bento:`	|
+|	:watch:    `:watch:`	|	:basketball:    `:basketball:`	|	:sushi:    `:sushi:`	|
+|	:radio:    `:radio:`	|	:soccer:    `:soccer:`	|	:fish_cake:    `:fish_cake:`	|
+|	:satellite:    `:satellite:`	|	:baseball:    `:baseball:`	|	:rice_ball:    `:rice_ball:`	|
+|	:loop:    `:loop:`	|	:tennis:    `:tennis:`	|	:rice_cracker:    `:rice_cracker:`	|
+|	:mag:    `:mag:`	|	:8ball:    `:8ball:`	|	:rice:    `:rice:`	|
+|	:mag_right:    `:mag_right:`	|	:rugby_football:    `:rugby_football:`	|	:ramen:    `:ramen:`	|
+|	:unlock:    `:unlock:`	|	:bowling:    `:bowling:`	|	:stew:    `:stew:`	|
+|	:lock:    `:lock:`	|	:golf:    `:golf:`	|	:oden:    `:oden:`	|
+|	:lock_with_ink_pen:    `:lock_with_ink_pen:`	|	:mountain_bicyclist:    `:mountain_bicyclist:`	|	:dango:    `:dango:`	|
+|	:closed_lock_with_key:    `:closed_lock_with_key:`	|	:bicyclist:    `:bicyclist:`	|	:egg:    `:egg:`	|
+|	:key:    `:key:`	|	:horse_racing:    `:horse_racing:`	|	:bread:    `:bread:`	|
+|	:bulb:    `:bulb:`	|	:snowboarder:    `:snowboarder:`	|	:doughnut:    `:doughnut:`	|
+|	:flashlight:    `:flashlight:`	|	:swimmer:    `:swimmer:`	|	:custard:    `:custard:`	|
+|	:high_brightness:    `:high_brightness:`	|	:surfer:    `:surfer:`	|	:icecream:    `:icecream:`	|
+|	:low_brightness:    `:low_brightness:`	|	:ski:    `:ski:`	|	:ice_cream:    `:ice_cream:`	|
+|	:electric_plug:    `:electric_plug:`	|	:spades:    `:spades:`	|	:shaved_ice:    `:shaved_ice:`	|
+|	:battery:    `:battery:`	|	:hearts:    `:hearts:`	|	:birthday:    `:birthday:`	|
+|	:calling:    `:calling:`	|	:clubs:    `:clubs:`	|	:cake:    `:cake:`	|
+|	:email:    `:email:`	|	:diamonds:    `:diamonds:`	|	:cookie:    `:cookie:`	|
+|	:mailbox:    `:mailbox:`	|	:gem:    `:gem:`	|	:chocolate_bar:    `:chocolate_bar:`	|
+|	:postbox:    `:postbox:`	|	:ring:    `:ring:`	|	:candy:    `:candy:`	|
+|	:bath:    `:bath:`	|	:trophy:    `:trophy:`	|	:lollipop:    `:lollipop:`	|
+|	:bathtub:    `:bathtub:`	|	:musical_score:    `:musical_score:`	|	:honey_pot:    `:honey_pot:`	|
+|	:shower:    `:shower:`	|	:musical_keyboard:    `:musical_keyboard:`	|	:apple:    `:apple:`	|
+|	:toilet:    `:toilet:`	|	:violin:    `:violin:`	|	:green_apple:    `:green_apple:`	|
+|	:wrench:    `:wrench:`	|	:space_invader:    `:space_invader:`	|	:tangerine:    `:tangerine:`	|
+|	:nut_and_bolt:    `:nut_and_bolt:`	|	:video_game:    `:video_game:`	|	:lemon:    `:lemon:`	|
+|	:hammer:    `:hammer:`	|	:black_joker:    `:black_joker:`	|	:cherries:    `:cherries:`	|
+|	:seat:    `:seat:`	|	:flower_playing_cards:    `:flower_playing_cards:`	|	:grapes:    `:grapes:`	|
+|	:moneybag:    `:moneybag:`	|	:game_die:    `:game_die:`	|	:watermelon:    `:watermelon:`	|
+|	:yen:    `:yen:`	|	:dart:    `:dart:`	|	:strawberry:    `:strawberry:`	|
+|	:dollar:    `:dollar:`	|	:mahjong:    `:mahjong:`	|	:peach:    `:peach:`	|
+|	:pound:    `:pound:`	|	:clapper:    `:clapper:`	|	:melon:    `:melon:`	|
+|	:euro:    `:euro:`	|	:memo:    `:memo:`	|	:banana:    `:banana:`	|
+|	:credit_card:    `:credit_card:`	|	:pencil:    `:pencil:`	|	:pear:    `:pear:`	|
+|	:money_with_wings:    `:money_with_wings:`	|	:book:    `:book:`	|	:pineapple:    `:pineapple:`	|
+|	:e-mail:    `:e-mail:`	|	:art:    `:art:`	|	:sweet_potato:    `:sweet_potato:`	|
+|	:inbox_tray:    `:inbox_tray:`	|	:microphone:    `:microphone:`	|	:eggplant:    `:eggplant:`	|
+|	:outbox_tray:    `:outbox_tray:`	|	:headphones:    `:headphones:`	|	:tomato:    `:tomato:`	|
+|	:envelope:    `:envelope:`	|	:trumpet:    `:trumpet:`	|	:corn:    `:corn:`	|
+|	:incoming_envelope:    `:incoming_envelope:`	|	:saxophone:    `:saxophone:`	|		|
+
+
 ## Places
-:house:    `:house:`
-:house_with_garden:    `:house_with_garden:`
-:school:    `:school:`
-:office:    `:office:`
-:post_office:    `:post_office:`
-:hospital:    `:hospital:`
-:bank:    `:bank:`
-:convenience_store:    `:convenience_store:`
-:love_hotel:    `:love_hotel:`
-:hotel:    `:hotel:`
-:wedding:    `:wedding:`
-:church:    `:church:`
-:department_store:    `:department_store:`
-:european_post_office:    `:european_post_office:`
-:city_sunrise:    `:city_sunrise:`
-:city_sunset:    `:city_sunset:`
-:japanese_castle:    `:japanese_castle:`
-:european_castle:    `:european_castle:`
-:tent:    `:tent:`
-:factory:    `:factory:`
-:tokyo_tower:    `:tokyo_tower:`
-:japan:    `:japan:`
-:mount_fuji:    `:mount_fuji:`
-:sunrise_over_mountains:    `:sunrise_over_mountains:`
-:sunrise:    `:sunrise:`
-:stars:    `:stars:`
-:statue_of_liberty:    `:statue_of_liberty:`
-:bridge_at_night:    `:bridge_at_night:`
-:carousel_horse:    `:carousel_horse:`
-:rainbow:    `:rainbow:`
-:ferris_wheel:    `:ferris_wheel:`
-:fountain:    `:fountain:`
-:roller_coaster:    `:roller_coaster:`
-:ship:    `:ship:`
-:speedboat:    `:speedboat:`
-:boat:    `:boat:`
-:sailboat:    `:sailboat:`
-:rowboat:    `:rowboat:`
-:anchor:    `:anchor:`
-:rocket:    `:rocket:`
-:airplane:    `:airplane:`
-:helicopter:    `:helicopter:`
-:steam_locomotive:    `:steam_locomotive:`
-:tram:    `:tram:`
-:mountain_railway:    `:mountain_railway:`
-:bike:    `:bike:`
-:aerial_tramway:    `:aerial_tramway:`
-:suspension_railway:    `:suspension_railway:`
-:mountain_cableway:    `:mountain_cableway:`
-:tractor:    `:tractor:`
-:blue_car:    `:blue_car:`
-:oncoming_automobile:    `:oncoming_automobile:`
-:car:    `:car:`
-:red_car:    `:red_car:`
-:taxi:    `:taxi:`
-:oncoming_taxi:    `:oncoming_taxi:`
-:articulated_lorry:    `:articulated_lorry:`
-:bus:    `:bus:`
-:oncoming_bus:    `:oncoming_bus:`
-:rotating_light:    `:rotating_light:`
-:police_car:    `:police_car:`
-:oncoming_police_car:    `:oncoming_police_car:`
-:fire_engine:    `:fire_engine:`
-:ambulance:    `:ambulance:`
-:minibus:    `:minibus:`
-:truck:    `:truck:`
-:train:    `:train:`
-:station:    `:station:`
-:train2:    `:train2:`
-:bullettrain_front:    `:bullettrain_front:`
-:bullettrain_side:    `:bullettrain_side:`
-:light_rail:    `:light_rail:`
-:monorail:    `:monorail:`
-:railway_car:    `:railway_car:`
-:trolleybus:    `:trolleybus:`
-:ticket:    `:ticket:`
-:fuelpump:    `:fuelpump:`
-:vertical_traffic_light:    `:vertical_traffic_light:`
-:traffic_light:    `:traffic_light:`
-:warning:    `:warning:`
-:construction:    `:construction:`
-:beginner:    `:beginner:`
-:atm:    `:atm:`
-:slot_machine:    `:slot_machine:`
-:busstop:    `:busstop:`
-:barber:    `:barber:`
-:hotsprings:    `:hotsprings:`
-:checkered_flag:    `:checkered_flag:`
-:crossed_flags:    `:crossed_flags:`
-:izakaya_lantern:    `:izakaya_lantern:`
-:moyai:    `:moyai:`
-:circus_tent:    `:circus_tent:`
-:performing_arts:    `:performing_arts:`
-:round_pushpin:    `:round_pushpin:`
-:triangular_flag_on_post:    `:triangular_flag_on_post:`
-:jp:    `:jp:`
-:kr:    `:kr:`
-:cn:    `:cn:`
-:us:    `:us:`
-:fr:    `:fr:`
-:es:    `:es:`
-:it:    `:it:`
-:ru:    `:ru:`
-:gb:    `:gb:`
-:uk:    `:uk:`
-:de:    `:de:`
+|		|		|		|
+|	-	|	-	|	-	|
+|	:house:    `:house:`	|	:sailboat:    `:sailboat:`	|	:monorail:    `:monorail:`	|
+|	:house_with_garden:    `:house_with_garden:`	|	:rowboat:    `:rowboat:`	|	:railway_car:    `:railway_car:`	|
+|	:school:    `:school:`	|	:anchor:    `:anchor:`	|	:trolleybus:    `:trolleybus:`	|
+|	:office:    `:office:`	|	:rocket:    `:rocket:`	|	:ticket:    `:ticket:`	|
+|	:post_office:    `:post_office:`	|	:airplane:    `:airplane:`	|	:fuelpump:    `:fuelpump:`	|
+|	:hospital:    `:hospital:`	|	:helicopter:    `:helicopter:`	|	:vertical_traffic_light:    `:vertical_traffic_light:`	|
+|	:bank:    `:bank:`	|	:steam_locomotive:    `:steam_locomotive:`	|	:traffic_light:    `:traffic_light:`	|
+|	:convenience_store:    `:convenience_store:`	|	:tram:    `:tram:`	|	:warning:    `:warning:`	|
+|	:love_hotel:    `:love_hotel:`	|	:mountain_railway:    `:mountain_railway:`	|	:construction:    `:construction:`	|
+|	:hotel:    `:hotel:`	|	:bike:    `:bike:`	|	:beginner:    `:beginner:`	|
+|	:wedding:    `:wedding:`	|	:aerial_tramway:    `:aerial_tramway:`	|	:atm:    `:atm:`	|
+|	:church:    `:church:`	|	:suspension_railway:    `:suspension_railway:`	|	:slot_machine:    `:slot_machine:`	|
+|	:department_store:    `:department_store:`	|	:mountain_cableway:    `:mountain_cableway:`	|	:busstop:    `:busstop:`	|
+|	:european_post_office:    `:european_post_office:`	|	:tractor:    `:tractor:`	|	:barber:    `:barber:`	|
+|	:city_sunrise:    `:city_sunrise:`	|	:blue_car:    `:blue_car:`	|	:hotsprings:    `:hotsprings:`	|
+|	:city_sunset:    `:city_sunset:`	|	:oncoming_automobile:    `:oncoming_automobile:`	|	:checkered_flag:    `:checkered_flag:`	|
+|	:japanese_castle:    `:japanese_castle:`	|	:car:    `:car:`	|	:crossed_flags:    `:crossed_flags:`	|
+|	:european_castle:    `:european_castle:`	|	:red_car:    `:red_car:`	|	:izakaya_lantern:    `:izakaya_lantern:`	|
+|	:tent:    `:tent:`	|	:taxi:    `:taxi:`	|	:moyai:    `:moyai:`	|
+|	:factory:    `:factory:`	|	:oncoming_taxi:    `:oncoming_taxi:`	|	:circus_tent:    `:circus_tent:`	|
+|	:tokyo_tower:    `:tokyo_tower:`	|	:articulated_lorry:    `:articulated_lorry:`	|	:performing_arts:    `:performing_arts:`	|
+|	:japan:    `:japan:`	|	:bus:    `:bus:`	|	:round_pushpin:    `:round_pushpin:`	|
+|	:mount_fuji:    `:mount_fuji:`	|	:oncoming_bus:    `:oncoming_bus:`	|	:triangular_flag_on_post:    `:triangular_flag_on_post:`	|
+|	:sunrise_over_mountains:    `:sunrise_over_mountains:`	|	:rotating_light:    `:rotating_light:`	|	:jp:    `:jp:`	|
+|	:sunrise:    `:sunrise:`	|	:police_car:    `:police_car:`	|	:kr:    `:kr:`	|
+|	:stars:    `:stars:`	|	:oncoming_police_car:    `:oncoming_police_car:`	|	:cn:    `:cn:`	|
+|	:statue_of_liberty:    `:statue_of_liberty:`	|	:fire_engine:    `:fire_engine:`	|	:us:    `:us:`	|
+|	:bridge_at_night:    `:bridge_at_night:`	|	:ambulance:    `:ambulance:`	|	:fr:    `:fr:`	|
+|	:carousel_horse:    `:carousel_horse:`	|	:minibus:    `:minibus:`	|	:es:    `:es:`	|
+|	:rainbow:    `:rainbow:`	|	:truck:    `:truck:`	|	:it:    `:it:`	|
+|	:ferris_wheel:    `:ferris_wheel:`	|	:train:    `:train:`	|	:ru:    `:ru:`	|
+|	:fountain:    `:fountain:`	|	:station:    `:station:`	|	:gb:    `:gb:`	|
+|	:roller_coaster:    `:roller_coaster:`	|	:train2:    `:train2:`	|	:uk:    `:uk:`	|
+|	:ship:    `:ship:`	|	:bullettrain_front:    `:bullettrain_front:`	|	:de:    `:de:`	|
+|	:speedboat:    `:speedboat:`	|	:bullettrain_side:    `:bullettrain_side:`	|		|
+|	:boat:    `:boat:`	|	:light_rail:    `:light_rail:`	|		|
+
+
+
 ## Symbols
-:one:    `:one:`
-:two:    `:two:`
-:three:    `:three:`
-:four:    `:four:`
-:five:    `:five:`
-:six:    `:six:`
-:seven:    `:seven:`
-:eight:    `:eight:`
-:nine:    `:nine:`
-:keycap_ten:    `:keycap_ten:`
-:1234:    `:1234:`
-:zero:    `:zero:`
-:hash:    `:hash:`
-:symbols:    `:symbols:`
-:arrow_backward:    `:arrow_backward:`
-:arrow_down:    `:arrow_down:`
-:arrow_forward:    `:arrow_forward:`
-:arrow_left:    `:arrow_left:`
-:capital_abcd:    `:capital_abcd:`
-:abcd:    `:abcd:`
-:abc:    `:abc:`
-:arrow_lower_left:    `:arrow_lower_left:`
-:arrow_lower_right:    `:arrow_lower_right:`
-:arrow_right:    `:arrow_right:`
-:arrow_up:    `:arrow_up:`
-:arrow_upper_left:    `:arrow_upper_left:`
-:arrow_upper_right:    `:arrow_upper_right:`
-:arrow_double_down:    `:arrow_double_down:`
-:arrow_double_up:    `:arrow_double_up:`
-:arrow_down_small:    `:arrow_down_small:`
-:arrow_heading_down:    `:arrow_heading_down:`
-:arrow_heading_up:    `:arrow_heading_up:`
-:leftwards_arrow_with_hook:    `:leftwards_arrow_with_hook:`
-:arrow_right_hook:    `:arrow_right_hook:`
-:left_right_arrow:    `:left_right_arrow:`
-:arrow_up_down:    `:arrow_up_down:`
-:arrow_up_small:    `:arrow_up_small:`
-:arrows_clockwise:    `:arrows_clockwise:`
-:arrows_counterclockwise:    `:arrows_counterclockwise:`
-:rewind:    `:rewind:`
-:fast_forward:    `:fast_forward:`
-:information_source:    `:information_source:`
-:ok:    `:ok:`
-:twisted_rightwards_arrows:    `:twisted_rightwards_arrows:`
-:repeat:    `:repeat:`
-:repeat_one:    `:repeat_one:`
-:new:    `:new:`
-:top:    `:top:`
-:up:    `:up:`
-:cool:    `:cool:`
-:free:    `:free:`
-:ng:    `:ng:`
-:cinema:    `:cinema:`
-:koko:    `:koko:`
-:signal_strength:    `:signal_strength:`
-:u5272:    `:u5272:`
-:u5408:    `:u5408:`
-:u55b6:    `:u55b6:`
-:u6307:    `:u6307:`
-:u6708:    `:u6708:`
-:u6709:    `:u6709:`
-:u6e80:    `:u6e80:`
-:u7121:    `:u7121:`
-:u7533:    `:u7533:`
-:u7a7a:    `:u7a7a:`
-:u7981:    `:u7981:`
-:sa:    `:sa:`
-:restroom:    `:restroom:`
-:mens:    `:mens:`
-:womens:    `:womens:`
-:baby_symbol:    `:baby_symbol:`
-:no_smoking:    `:no_smoking:`
-:parking:    `:parking:`
-:wheelchair:    `:wheelchair:`
-:metro:    `:metro:`
-:baggage_claim:    `:baggage_claim:`
-:accept:    `:accept:`
-:wc:    `:wc:`
-:potable_water:    `:potable_water:`
-:put_litter_in_its_place:    `:put_litter_in_its_place:`
-:secret:    `:secret:`
-:congratulations:    `:congratulations:`
-:m:    `:m:`
-:passport_control:    `:passport_control:`
-:left_luggage:    `:left_luggage:`
-:customs:    `:customs:`
-:ideograph_advantage:    `:ideograph_advantage:`
-:cl:    `:cl:`
-:sos:    `:sos:`
-:id:    `:id:`
-:no_entry_sign:    `:no_entry_sign:`
-:underage:    `:underage:`
-:no_mobile_phones:    `:no_mobile_phones:`
-:do_not_litter:    `:do_not_litter:`
-:non-potable_water:    `:non-potable_water:`
-:no_bicycles:    `:no_bicycles:`
-:no_pedestrians:    `:no_pedestrians:`
-:children_crossing:    `:children_crossing:`
-:no_entry:    `:no_entry:`
-:eight_spoked_asterisk:    `:eight_spoked_asterisk:`
-:sparkle:    `:sparkle:`
-:eight_pointed_black_star:    `:eight_pointed_black_star:`
-:heart_decoration:    `:heart_decoration:`
-:vs:    `:vs:`
-:vibration_mode:    `:vibration_mode:`
-:mobile_phone_off:    `:mobile_phone_off:`
-:chart:    `:chart:`
-:currency_exchange:    `:currency_exchange:`
-:aries:    `:aries:`
-:taurus:    `:taurus:`
-:gemini:    `:gemini:`
-:cancer:    `:cancer:`
-:leo:    `:leo:`
-:virgo:    `:virgo:`
-:libra:    `:libra:`
-:scorpius:    `:scorpius:`
-:sagittarius:    `:sagittarius:`
-:capricorn:    `:capricorn:`
-:aquarius:    `:aquarius:`
-:pisces:    `:pisces:`
-:ophiuchus:    `:ophiuchus:`
-:six_pointed_star:    `:six_pointed_star:`
-:negative_squared_cross_mark:    `:negative_squared_cross_mark:`
-:a:    `:a:`
-:b:    `:b:`
-:ab:    `:ab:`
-:o2:    `:o2:`
-:diamond_shape_with_a_dot_inside:    `:diamond_shape_with_a_dot_inside:`
-:recycle:    `:recycle:`
-:end:    `:end:`
-:back:    `:back:`
-:on:    `:on:`
-:soon:    `:soon:`
-:clock1:    `:clock1:`
-:clock130:    `:clock130:`
-:clock10:    `:clock10:`
-:clock1030:    `:clock1030:`
-:clock11:    `:clock11:`
-:clock1130:    `:clock1130:`
-:clock12:    `:clock12:`
-:clock1230:    `:clock1230:`
-:clock2:    `:clock2:`
-:clock230:    `:clock230:`
-:clock3:    `:clock3:`
-:clock330:    `:clock330:`
-:clock4:    `:clock4:`
-:clock430:    `:clock430:`
-:clock5:    `:clock5:`
-:clock530:    `:clock530:`
-:clock6:    `:clock6:`
-:clock630:    `:clock630:`
-:clock7:    `:clock7:`
-:clock730:    `:clock730:`
-:clock8:    `:clock8:`
-:clock830:    `:clock830:`
-:clock9:    `:clock9:`
-:clock930:    `:clock930:`
-:heavy_dollar_sign:    `:heavy_dollar_sign:`
-:copyright:    `:copyright:`
-:registered:    `:registered:`
-:tm:    `:tm:`
-:x:    `:x:`
-:heavy_exclamation_mark:    `:heavy_exclamation_mark:`
-:bangbang:    `:bangbang:`
-:interrobang:    `:interrobang:`
-:o:    `:o:`
-:heavy_multiplication_x:    `:heavy_multiplication_x:`
-:heavy_plus_sign:    `:heavy_plus_sign:`
-:heavy_minus_sign:    `:heavy_minus_sign:`
-:heavy_division_sign:    `:heavy_division_sign:`
-:white_flower:    `:white_flower:`
-:100:    `:100:`
-:heavy_check_mark:    `:heavy_check_mark:`
-:ballot_box_with_check:    `:ballot_box_with_check:`
-:radio_button:    `:radio_button:`
-:link:    `:link:`
-:curly_loop:    `:curly_loop:`
-:wavy_dash:    `:wavy_dash:`
-:part_alternation_mark:    `:part_alternation_mark:`
-:trident:    `:trident:`
-:black_small_square:    `:black_small_square:`
-:white_small_square:    `:white_small_square:`
-:black_medium_small_square:    `:black_medium_small_square:`
-:white_medium_small_square:    `:white_medium_small_square:`
-:black_medium_square:    `:black_medium_square:`
-:white_medium_square:    `:white_medium_square:`
-:black_large_square:    `:black_large_square:`
-:white_large_square:    `:white_large_square:`
-:white_check_mark:    `:white_check_mark:`
-:black_square_button:    `:black_square_button:`
-:white_square_button:    `:white_square_button:`
-:black_circle:    `:black_circle:`
-:white_circle:    `:white_circle:`
-:red_circle:    `:red_circle:`
-:large_blue_circle:    `:large_blue_circle:`
-:large_blue_diamond:    `:large_blue_diamond:`
-:large_orange_diamond:    `:large_orange_diamond:`
-:small_blue_diamond:    `:small_blue_diamond:`
-:small_orange_diamond:    `:small_orange_diamond:`
-:small_red_triangle:    `:small_red_triangle:`
-:small_red_triangle_down:    `:small_red_triangle_down:`
-:shipit:    `:shipit:`
+|		|		|		|
+|	-	|	-	|	-	|
+|	:one:    `:one:`	|	:mens:    `:mens:`	|	:clock1030:    `:clock1030:`	|
+|	:two:    `:two:`	|	:womens:    `:womens:`	|	:clock11:    `:clock11:`	|
+|	:three:    `:three:`	|	:baby_symbol:    `:baby_symbol:`	|	:clock1130:    `:clock1130:`	|
+|	:four:    `:four:`	|	:no_smoking:    `:no_smoking:`	|	:clock12:    `:clock12:`	|
+|	:five:    `:five:`	|	:parking:    `:parking:`	|	:clock1230:    `:clock1230:`	|
+|	:six:    `:six:`	|	:wheelchair:    `:wheelchair:`	|	:clock2:    `:clock2:`	|
+|	:seven:    `:seven:`	|	:metro:    `:metro:`	|	:clock230:    `:clock230:`	|
+|	:eight:    `:eight:`	|	:baggage_claim:    `:baggage_claim:`	|	:clock3:    `:clock3:`	|
+|	:nine:    `:nine:`	|	:accept:    `:accept:`	|	:clock330:    `:clock330:`	|
+|	:keycap_ten:    `:keycap_ten:`	|	:wc:    `:wc:`	|	:clock4:    `:clock4:`	|
+|	:1234:    `:1234:`	|	:potable_water:    `:potable_water:`	|	:clock430:    `:clock430:`	|
+|	:zero:    `:zero:`	|	:put_litter_in_its_place:    `:put_litter_in_its_place:`	|	:clock5:    `:clock5:`	|
+|	:hash:    `:hash:`	|	:secret:    `:secret:`	|	:clock530:    `:clock530:`	|
+|	:symbols:    `:symbols:`	|	:congratulations:    `:congratulations:`	|	:clock6:    `:clock6:`	|
+|	:arrow_backward:    `:arrow_backward:`	|	:m:    `:m:`	|	:clock630:    `:clock630:`	|
+|	:arrow_down:    `:arrow_down:`	|	:passport_control:    `:passport_control:`	|	:clock7:    `:clock7:`	|
+|	:arrow_forward:    `:arrow_forward:`	|	:left_luggage:    `:left_luggage:`	|	:clock730:    `:clock730:`	|
+|	:arrow_left:    `:arrow_left:`	|	:customs:    `:customs:`	|	:clock8:    `:clock8:`	|
+|	:capital_abcd:    `:capital_abcd:`	|	:ideograph_advantage:    `:ideograph_advantage:`	|	:clock830:    `:clock830:`	|
+|	:abcd:    `:abcd:`	|	:cl:    `:cl:`	|	:clock9:    `:clock9:`	|
+|	:abc:    `:abc:`	|	:sos:    `:sos:`	|	:clock930:    `:clock930:`	|
+|	:arrow_lower_left:    `:arrow_lower_left:`	|	:id:    `:id:`	|	:heavy_dollar_sign:    `:heavy_dollar_sign:`	|
+|	:arrow_lower_right:    `:arrow_lower_right:`	|	:no_entry_sign:    `:no_entry_sign:`	|	:copyright:    `:copyright:`	|
+|	:arrow_right:    `:arrow_right:`	|	:underage:    `:underage:`	|	:registered:    `:registered:`	|
+|	:arrow_up:    `:arrow_up:`	|	:no_mobile_phones:    `:no_mobile_phones:`	|	:tm:    `:tm:`	|
+|	:arrow_upper_left:    `:arrow_upper_left:`	|	:do_not_litter:    `:do_not_litter:`	|	:x:    `:x:`	|
+|	:arrow_upper_right:    `:arrow_upper_right:`	|	:non-potable_water:    `:non-potable_water:`	|	:heavy_exclamation_mark:    `:heavy_exclamation_mark:`	|
+|	:arrow_double_down:    `:arrow_double_down:`	|	:no_bicycles:    `:no_bicycles:`	|	:bangbang:    `:bangbang:`	|
+|	:arrow_double_up:    `:arrow_double_up:`	|	:no_pedestrians:    `:no_pedestrians:`	|	:interrobang:    `:interrobang:`	|
+|	:arrow_down_small:    `:arrow_down_small:`	|	:children_crossing:    `:children_crossing:`	|	:o:    `:o:`	|
+|	:arrow_heading_down:    `:arrow_heading_down:`	|	:no_entry:    `:no_entry:`	|	:heavy_multiplication_x:    `:heavy_multiplication_x:`	|
+|	:arrow_heading_up:    `:arrow_heading_up:`	|	:eight_spoked_asterisk:    `:eight_spoked_asterisk:`	|	:heavy_plus_sign:    `:heavy_plus_sign:`	|
+|	:leftwards_arrow_with_hook:    `:leftwards_arrow_with_hook:`	|	:sparkle:    `:sparkle:`	|	:heavy_minus_sign:    `:heavy_minus_sign:`	|
+|	:arrow_right_hook:    `:arrow_right_hook:`	|	:eight_pointed_black_star:    `:eight_pointed_black_star:`	|	:heavy_division_sign:    `:heavy_division_sign:`	|
+|	:left_right_arrow:    `:left_right_arrow:`	|	:heart_decoration:    `:heart_decoration:`	|	:white_flower:    `:white_flower:`	|
+|	:arrow_up_down:    `:arrow_up_down:`	|	:vs:    `:vs:`	|	:100:    `:100:`	|
+|	:arrow_up_small:    `:arrow_up_small:`	|	:vibration_mode:    `:vibration_mode:`	|	:heavy_check_mark:    `:heavy_check_mark:`	|
+|	:arrows_clockwise:    `:arrows_clockwise:`	|	:mobile_phone_off:    `:mobile_phone_off:`	|	:ballot_box_with_check:    `:ballot_box_with_check:`	|
+|	:arrows_counterclockwise:    `:arrows_counterclockwise:`	|	:chart:    `:chart:`	|	:radio_button:    `:radio_button:`	|
+|	:rewind:    `:rewind:`	|	:currency_exchange:    `:currency_exchange:`	|	:link:    `:link:`	|
+|	:fast_forward:    `:fast_forward:`	|	:aries:    `:aries:`	|	:curly_loop:    `:curly_loop:`	|
+|	:information_source:    `:information_source:`	|	:taurus:    `:taurus:`	|	:wavy_dash:    `:wavy_dash:`	|
+|	:ok:    `:ok:`	|	:gemini:    `:gemini:`	|	:part_alternation_mark:    `:part_alternation_mark:`	|
+|	:twisted_rightwards_arrows:    `:twisted_rightwards_arrows:`	|	:cancer:    `:cancer:`	|	:trident:    `:trident:`	|
+|	:repeat:    `:repeat:`	|	:leo:    `:leo:`	|	:black_small_square:    `:black_small_square:`	|
+|	:repeat_one:    `:repeat_one:`	|	:virgo:    `:virgo:`	|	:white_small_square:    `:white_small_square:`	|
+|	:new:    `:new:`	|	:libra:    `:libra:`	|	:black_medium_small_square:    `:black_medium_small_square:`	|
+|	:top:    `:top:`	|	:scorpius:    `:scorpius:`	|	:white_medium_small_square:    `:white_medium_small_square:`	|
+|	:up:    `:up:`	|	:sagittarius:    `:sagittarius:`	|	:black_medium_square:    `:black_medium_square:`	|
+|	:cool:    `:cool:`	|	:capricorn:    `:capricorn:`	|	:white_medium_square:    `:white_medium_square:`	|
+|	:free:    `:free:`	|	:aquarius:    `:aquarius:`	|	:black_large_square:    `:black_large_square:`	|
+|	:ng:    `:ng:`	|	:pisces:    `:pisces:`	|	:white_large_square:    `:white_large_square:`	|
+|	:cinema:    `:cinema:`	|	:ophiuchus:    `:ophiuchus:`	|	:white_check_mark:    `:white_check_mark:`	|
+|	:koko:    `:koko:`	|	:six_pointed_star:    `:six_pointed_star:`	|	:black_square_button:    `:black_square_button:`	|
+|	:signal_strength:    `:signal_strength:`	|	:negative_squared_cross_mark:    `:negative_squared_cross_mark:`	|	:white_square_button:    `:white_square_button:`	|
+|	:u5272:    `:u5272:`	|	:a:    `:a:`	|	:black_circle:    `:black_circle:`	|
+|	:u5408:    `:u5408:`	|	:b:    `:b:`	|	:white_circle:    `:white_circle:`	|
+|	:u55b6:    `:u55b6:`	|	:ab:    `:ab:`	|	:red_circle:    `:red_circle:`	|
+|	:u6307:    `:u6307:`	|	:o2:    `:o2:`	|	:large_blue_circle:    `:large_blue_circle:`	|
+|	:u6708:    `:u6708:`	|	:diamond_shape_with_a_dot_inside:    `:diamond_shape_with_a_dot_inside:`	|	:large_blue_diamond:    `:large_blue_diamond:`	|
+|	:u6709:    `:u6709:`	|	:recycle:    `:recycle:`	|	:large_orange_diamond:    `:large_orange_diamond:`	|
+|	:u6e80:    `:u6e80:`	|	:end:    `:end:`	|	:small_blue_diamond:    `:small_blue_diamond:`	|
+|	:u7121:    `:u7121:`	|	:back:    `:back:`	|	:small_orange_diamond:    `:small_orange_diamond:`	|
+|	:u7533:    `:u7533:`	|	:on:    `:on:`	|	:small_red_triangle:    `:small_red_triangle:`	|
+|	:u7a7a:    `:u7a7a:`	|	:soon:    `:soon:`	|	:small_red_triangle_down:    `:small_red_triangle_down:`	|
+|	:u7981:    `:u7981:`	|	:clock1:    `:clock1:`	|	:shipit:    `:shipit:`	|
+|	:sa:    `:sa:`	|	:clock130:    `:clock130:`	|		|
+|	:restroom:    `:restroom:`	|	:clock10:    `:clock10:`	|		|
