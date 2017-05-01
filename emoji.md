@@ -1,56 +1,72 @@
 # EMOJI CHEAT SHEET
 ##  People
-|		|		|		|		|
-|	-	|	-	|	-	|	-	|
-|	:bowtie:    `:bowtie:`	|	:rage:    `:rage:`	|	:ok_hand:    `:ok_hand:`	|	:man_with_gua_pi_mao:    `:man_with_gua_pi_mao:`	|
-|	:smile:    `:smile:`	|	:triumph:    `:triumph:`	|	:punch:    `:punch:`	|	:man_with_turban:    `:man_with_turban:`	|
-|	:laughing:    `:laughing:`	|	:sleepy:    `:sleepy:`	|	:facepunch:    `:facepunch:`	|	:construction_worker:    `:construction_worker:`	|
-|	:blush:    `:blush:`	|	:yum:    `:yum:`	|	:fist:    `:fist:`	|	:cop:    `:cop:`	|
-|	:smiley:    `:smiley:`	|	:mask:    `:mask:`	|	:v:    `:v:`	|	:angel:    `:angel:`	|
-|	:relaxed:    `:relaxed:`	|	:sunglasses:    `:sunglasses:`	|	:wave:    `:wave:`	|	:princess:    `:princess:`	|
-|	:smirk:    `:smirk:`	|	:dizzy_face:    `:dizzy_face:`	|	:hand:    `:hand:`	|	:smiley_cat:    `:smiley_cat:`	|
-|	:heart_eyes:    `:heart_eyes:`	|	:imp:    `:imp:`	|	:raised_hand:    `:raised_hand:`	|	:smile_cat:    `:smile_cat:`	|
-|	:kissing_heart:    `:kissing_heart:`	|	:smiling_imp:    `:smiling_imp:`	|	:open_hands:    `:open_hands:`	|	:heart_eyes_cat:    `:heart_eyes_cat:`	|
-|	:kissing_closed_eyes:    `:kissing_closed_eyes:`	|	:neutral_face:    `:neutral_face:`	|	:point_up:    `:point_up:`	|	:kissing_cat:    `:kissing_cat:`	|
-|	:flushed:    `:flushed:`	|	:no_mouth:    `:no_mouth:`	|	:point_down:    `:point_down:`	|	:smirk_cat:    `:smirk_cat:`	|
-|	:relieved:    `:relieved:`	|	:innocent:    `:innocent:`	|	:point_left:    `:point_left:`	|	:scream_cat:    `:scream_cat:`	|
-|	:satisfied:    `:satisfied:`	|	:alien:    `:alien:`	|	:point_right:    `:point_right:`	|	:crying_cat_face:    `:crying_cat_face:`	|
-|	:grin:    `:grin:`	|	:yellow_heart:    `:yellow_heart:`	|	:raised_hands:    `:raised_hands:`	|	:joy_cat:    `:joy_cat:`	|
-|	:wink:    `:wink:`	|	:blue_heart:    `:blue_heart:`	|	:pray:    `:pray:`	|	:pouting_cat:    `:pouting_cat:`	|
-|	:stuck_out_tongue_winking_eye:    `:stuck_out_tongue_winking_eye:`	|	:purple_heart:    `:purple_heart:`	|	:point_up_2:    `:point_up_2:`	|	:japanese_ogre:    `:japanese_ogre:`	|
-|	:stuck_out_tongue_closed_eyes:    `:stuck_out_tongue_closed_eyes:`	|	:heart:    `:heart:`	|	:clap:    `:clap:`	|	:japanese_goblin:    `:japanese_goblin:`	|
-|	:grinning:    `:grinning:`	|	:green_heart:    `:green_heart:`	|	:muscle:    `:muscle:`	|	:see_no_evil:    `:see_no_evil:`	|
-|	:kissing:    `:kissing:`	|	:broken_heart:    `:broken_heart:`	|	:metal:    `:metal:`	|	:hear_no_evil:    `:hear_no_evil:`	|
-|	:kissing_smiling_eyes:    `:kissing_smiling_eyes:`	|	:heartbeat:    `:heartbeat:`	|	:fu:    `:fu:`	|	:speak_no_evil:    `:speak_no_evil:`	|
-|	:stuck_out_tongue:    `:stuck_out_tongue:`	|	:heartpulse:    `:heartpulse:`	|	:runner:    `:runner:`	|	:guardsman:    `:guardsman:`	|
-|	:sleeping:    `:sleeping:`	|	:two_hearts:    `:two_hearts:`	|	:running:    `:running:`	|	:skull:    `:skull:`	|
-|	:worried:    `:worried:`	|	:revolving_hearts:    `:revolving_hearts:`	|	:couple:    `:couple:`	|	:feet:    `:feet:`	|
-|	:frowning:    `:frowning:`	|	:cupid:    `:cupid:`	|	:family:    `:family:`	|	:lips:    `:lips:`	|
-|	:anguished:    `:anguished:`	|	:sparkling_heart:    `:sparkling_heart:`	|	:two_men_holding_hands:    `:two_men_holding_hands:`	|	:kiss:    `:kiss:`	|
-|	:open_mouth:    `:open_mouth:`	|	:sparkles:    `:sparkles:`	|	:two_women_holding_hands:    `:two_women_holding_hands:`	|	:droplet:    `:droplet:`	|
-|	:grimacing:    `:grimacing:`	|	:star:    `:star:`	|	:dancer:    `:dancer:`	|	:ear:    `:ear:`	|
-|	:confused:    `:confused:`	|	:star2:    `:star2:`	|	:dancers:    `:dancers:`	|	:eyes:    `:eyes:`	|
-|	:hushed:    `:hushed:`	|	:dizzy:    `:dizzy:`	|	:ok_woman:    `:ok_woman:`	|	:nose:    `:nose:`	|
-|	:expressionless:    `:expressionless:`	|	:boom:    `:boom:`	|	:no_good:    `:no_good:`	|	:tongue:    `:tongue:`	|
-|	:unamused:    `:unamused:`	|	:collision:    `:collision:`	|	:information_desk_person:    `:information_desk_person:`	|	:love_letter:    `:love_letter:`	|
-|	:sweat_smile:    `:sweat_smile:`	|	:anger:    `:anger:`	|	:raising_hand:    `:raising_hand:`	|	:bust_in_silhouette:    `:bust_in_silhouette:`	|
-|	:sweat:    `:sweat:`	|	:exclamation:    `:exclamation:`	|	:bride_with_veil:    `:bride_with_veil:`	|	:busts_in_silhouette:    `:busts_in_silhouette:`	|
-|	:disappointed_relieved:    `:disappointed_relieved:`	|	:question:    `:question:`	|	:person_with_pouting_face:    `:person_with_pouting_face:`	|	:speech_balloon:    `:speech_balloon:`	|
-|	:weary:    `:weary:`	|	:grey_exclamation:    `:grey_exclamation:`	|	:person_frowning:    `:person_frowning:`	|	:thought_balloon:    `:thought_balloon:`	|
-|	:pensive:    `:pensive:`	|	:grey_question:    `:grey_question:`	|	:bow:    `:bow:`	|	:feelsgood:    `:feelsgood:`	|
-|	:disappointed:    `:disappointed:`	|	:zzz:    `:zzz:`	|	:couplekiss:    `:couplekiss:`	|	:finnadie:    `:finnadie:`	|
-|	:confounded:    `:confounded:`	|	:dash:    `:dash:`	|	:couple_with_heart:    `:couple_with_heart:`	|	:goberserk:    `:goberserk:`	|
-|	:fearful:    `:fearful:`	|	:sweat_drops:    `:sweat_drops:`	|	:massage:    `:massage:`	|	:godmode:    `:godmode:`	|
-|	:cold_sweat:    `:cold_sweat:`	|	:notes:    `:notes:`	|	:haircut:    `:haircut:`	|	:hurtrealbad:    `:hurtrealbad:`	|
-|	:persevere:    `:persevere:`	|	:musical_note:    `:musical_note:`	|	:nail_care:    `:nail_care:`	|	:rage1:    `:rage1:`	|
-|	:cry:    `:cry:`	|	:fire:    `:fire:`	|	:boy:    `:boy:`	|	:rage2:    `:rage2:`	|
-|	:sob:    `:sob:`	|	:hankey:    `:hankey:`	|	:girl:    `:girl:`	|	:rage3:    `:rage3:`	|
-|	:joy:    `:joy:`	|	:poop:    `:poop:`	|	:woman:    `:woman:`	|	:rage4:    `:rage4:`	|
-|	:astonished:    `:astonished:`	|	:shit:    `:shit:`	|	:man:    `:man:`	|	:suspect:    `:suspect:`	|
-|	:scream:    `:scream:`	|	:+1:    `:+1:`	|	:baby:    `:baby:`	|	:trollface:    `:trollface:`	|
-|	:neckbeard:    `:neckbeard:`	|	:thumbsup:    `:thumbsup:`	|	:older_woman:    `:older_woman:`	|		|
-|	:tired_face:    `:tired_face:`	|	:-1:    `:-1:`	|	:older_man:    `:older_man:`	|		|
-|	:angry:    `:angry:`	|	:thumbsdown:    `:thumbsdown:`	|	:person_with_blond_hair:    `:person_with_blond_hair:`	|		|
+|		|		|		|
+|	-	|	-	|	-	|
+|	:bowtie:    `:bowtie:`	|	:rage:    `:rage:`	|	:ok_hand:    `:ok_hand:`	|
+|	:smile:    `:smile:`	|	:triumph:    `:triumph:`	|	:punch:    `:punch:`	|
+|	:laughing:    `:laughing:`	|	:sleepy:    `:sleepy:`	|	:facepunch:    `:facepunch:`	|
+|	:blush:    `:blush:`	|	:yum:    `:yum:`	|	:fist:    `:fist:`	|
+|	:smiley:    `:smiley:`	|	:mask:    `:mask:`	|	:v:    `:v:`	|
+|	:relaxed:    `:relaxed:`	|	:sunglasses:    `:sunglasses:`	|	:wave:    `:wave:`	|
+|	:smirk:    `:smirk:`	|	:dizzy_face:    `:dizzy_face:`	|	:hand:    `:hand:`	|
+|	:heart_eyes:    `:heart_eyes:`	|	:imp:    `:imp:`	|	:raised_hand:    `:raised_hand:`	|
+|	:kissing_heart:    `:kissing_heart:`	|	:smiling_imp:    `:smiling_imp:`	|	:open_hands:    `:open_hands:`	|
+|	:kissing_closed_eyes:    `:kissing_closed_eyes:`	|	:neutral_face:    `:neutral_face:`	|	:point_up:    `:point_up:`	|
+|	:flushed:    `:flushed:`	|	:no_mouth:    `:no_mouth:`	|	:point_down:    `:point_down:`	|
+|	:relieved:    `:relieved:`	|	:innocent:    `:innocent:`	|	:point_left:    `:point_left:`	|
+|	:satisfied:    `:satisfied:`	|	:alien:    `:alien:`	|	:point_right:    `:point_right:`	|
+|	:grin:    `:grin:`	|	:yellow_heart:    `:yellow_heart:`	|	:raised_hands:    `:raised_hands:`	|
+|	:wink:    `:wink:`	|	:blue_heart:    `:blue_heart:`	|	:pray:    `:pray:`	|
+|	:stuck_out_tongue_winking_eye:    `:stuck_out_tongue_winking_eye:`	|	:purple_heart:    `:purple_heart:`	|	:point_up_2:    `:point_up_2:`	|
+|	:stuck_out_tongue_closed_eyes:    `:stuck_out_tongue_closed_eyes:`	|	:heart:    `:heart:`	|	:clap:    `:clap:`	|
+|	:grinning:    `:grinning:`	|	:green_heart:    `:green_heart:`	|	:muscle:    `:muscle:`	|
+|	:kissing:    `:kissing:`	|	:broken_heart:    `:broken_heart:`	|	:metal:    `:metal:`	|
+|	:kissing_smiling_eyes:    `:kissing_smiling_eyes:`	|	:heartbeat:    `:heartbeat:`	|	:fu:    `:fu:`	|
+|	:stuck_out_tongue:    `:stuck_out_tongue:`	|	:heartpulse:    `:heartpulse:`	|	:runner:    `:runner:`	|
+|	:sleeping:    `:sleeping:`	|	:two_hearts:    `:two_hearts:`	|	:running:    `:running:`	|
+|	:worried:    `:worried:`	|	:revolving_hearts:    `:revolving_hearts:`	|	:couple:    `:couple:`	|
+|	:frowning:    `:frowning:`	|	:cupid:    `:cupid:`	|	:family:    `:family:`	|
+|	:anguished:    `:anguished:`	|	:sparkling_heart:    `:sparkling_heart:`	|	:two_men_holding_hands:    `:two_men_holding_hands:`	|
+|	:open_mouth:    `:open_mouth:`	|	:sparkles:    `:sparkles:`	|	:two_women_holding_hands:    `:two_women_holding_hands:`	|
+|	:grimacing:    `:grimacing:`	|	:star:    `:star:`	|	:dancer:    `:dancer:`	|
+|	:confused:    `:confused:`	|	:star2:    `:star2:`	|	:dancers:    `:dancers:`	|
+|	:hushed:    `:hushed:`	|	:dizzy:    `:dizzy:`	|	:ok_woman:    `:ok_woman:`	|
+|	:expressionless:    `:expressionless:`	|	:boom:    `:boom:`	|	:no_good:    `:no_good:`	|
+|	:unamused:    `:unamused:`	|	:collision:    `:collision:`	|	:information_desk_person:    `:information_desk_person:`	|
+|	:sweat_smile:    `:sweat_smile:`	|	:anger:    `:anger:`	|	:raising_hand:    `:raising_hand:`	|
+|	:sweat:    `:sweat:`	|	:exclamation:    `:exclamation:`	|	:bride_with_veil:    `:bride_with_veil:`	|
+|	:disappointed_relieved:    `:disappointed_relieved:`	|	:question:    `:question:`	|	:person_with_pouting_face:    `:person_with_pouting_face:`	|
+|	:weary:    `:weary:`	|	:grey_exclamation:    `:grey_exclamation:`	|	:person_frowning:    `:person_frowning:`	|
+|	:pensive:    `:pensive:`	|	:grey_question:    `:grey_question:`	|	:bow:    `:bow:`	|
+|	:disappointed:    `:disappointed:`	|	:zzz:    `:zzz:`	|	:couplekiss:    `:couplekiss:`	|
+|	:confounded:    `:confounded:`	|	:dash:    `:dash:`	|	:couple_with_heart:    `:couple_with_heart:`	|
+|	:fearful:    `:fearful:`	|	:sweat_drops:    `:sweat_drops:`	|	:massage:    `:massage:`	|
+|	:cold_sweat:    `:cold_sweat:`	|	:notes:    `:notes:`	|	:haircut:    `:haircut:`	|
+|	:persevere:    `:persevere:`	|	:musical_note:    `:musical_note:`	|	:nail_care:    `:nail_care:`	|
+|	:cry:    `:cry:`	|	:fire:    `:fire:`	|	:boy:    `:boy:`	|
+|	:sob:    `:sob:`	|	:hankey:    `:hankey:`	|	:girl:    `:girl:`	|
+|	:joy:    `:joy:`	|	:poop:    `:poop:`	|	:woman:    `:woman:`	|
+|	:astonished:    `:astonished:`	|	:shit:    `:shit:`	|	:man:    `:man:`	|
+|	:scream:    `:scream:`	|	:+1:    `:+1:`	|	:baby:    `:baby:`	|
+|	:neckbeard:    `:neckbeard:`	|	:thumbsup:    `:thumbsup:`	|	:older_woman:    `:older_woman:`	|
+|	:tired_face:    `:tired_face:`	|	:-1:    `:-1:`	|	:older_man:    `:older_man:`	|
+|	:angry:    `:angry:`	|	:thumbsdown:    `:thumbsdown:`	|	:person_with_blond_hair:    `:person_with_blond_hair:`	|
+|	:man_with_gua_pi_mao:    `:man_with_gua_pi_mao:`	|	:hear_no_evil:    `:hear_no_evil:`	|	:feelsgood:    `:feelsgood:`	|
+|	:man_with_turban:    `:man_with_turban:`	|	:speak_no_evil:    `:speak_no_evil:`	|	:finnadie:    `:finnadie:`	|
+|	:construction_worker:    `:construction_worker:`	|	:guardsman:    `:guardsman:`	|	:goberserk:    `:goberserk:`	|
+|	:cop:    `:cop:`	|	:skull:    `:skull:`	|	:godmode:    `:godmode:`	|
+|	:angel:    `:angel:`	|	:feet:    `:feet:`	|	:hurtrealbad:    `:hurtrealbad:`	|
+|	:princess:    `:princess:`	|	:lips:    `:lips:`	|	:rage1:    `:rage1:`	|
+|	:smiley_cat:    `:smiley_cat:`	|	:kiss:    `:kiss:`	|	:rage2:    `:rage2:`	|
+|	:smile_cat:    `:smile_cat:`	|	:droplet:    `:droplet:`	|	:rage3:    `:rage3:`	|
+|	:heart_eyes_cat:    `:heart_eyes_cat:`	|	:ear:    `:ear:`	|	:rage4:    `:rage4:`	|
+|	:kissing_cat:    `:kissing_cat:`	|	:eyes:    `:eyes:`	|	:suspect:    `:suspect:`	|
+|	:smirk_cat:    `:smirk_cat:`	|	:nose:    `:nose:`	|	:trollface:    `:trollface:`	|
+|	:scream_cat:    `:scream_cat:`	|	:tongue:    `:tongue:`	|	:joy_cat:    `:joy_cat:`	|
+|	:crying_cat_face:    `:crying_cat_face:`	|	:love_letter:    `:love_letter:`	|	:pouting_cat:    `:pouting_cat:`	|
+|	:thought_balloon:    `:thought_balloon:`	|	:bust_in_silhouette:    `:bust_in_silhouette:`	|	:japanese_ogre:    `:japanese_ogre:`	|
+|	:see_no_evil:    `:see_no_evil:`	|	:busts_in_silhouette:    `:busts_in_silhouette:`	|		|
+|	:japanese_goblin:    `:japanese_goblin:`	|	:speech_balloon:    `:speech_balloon:`	|		|
 
 
 ## Nature
