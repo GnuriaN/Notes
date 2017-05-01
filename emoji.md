@@ -1,4 +1,5 @@
 # EMOJI CHEAT SHEET
+
 ##  People
 |		|		|		|
 |	-	|	-	|	-	|
